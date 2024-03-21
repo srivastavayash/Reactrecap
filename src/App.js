@@ -1,8 +1,7 @@
 function App() {
   return (
     <div className="App">
-     Jai shree ram
-     value
+     revised all basic concepts.
     </div>
   );
 }
